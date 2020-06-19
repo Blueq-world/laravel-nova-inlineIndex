@@ -13,4 +13,4 @@ InlineIndex::make('name')
               'type' => 'text',
           ])->rules('required');
 ```
-Note: event default keyup.enter, type default text
+Note: event default keyup.enter, type default text.
