@@ -2,6 +2,11 @@
 
 This package allows you to update a text field or number field of a resource in the index view (inline edit).
 
+## Install
+```bash
+composer require ncus/inline-index
+```
+
 ## Usage
 
 ```php
