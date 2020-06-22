@@ -1,5 +1,5 @@
 {
-    "name": "ncus/InlineIndex",
+    "name": "ncus/inline-index",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
